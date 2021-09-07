@@ -39,6 +39,7 @@ void validSubmittedFiles(string filename, string *allowedIncludingFiles, int num
 int main(int argc, char **argv)
 {
     //test pull
+    //test pull 1
     /*
     if (argc < 2)
         return 1;
